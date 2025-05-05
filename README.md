@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @holtimann
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning on code in place from Stanford
+- 🌱 I’m currently learning code in place from Stanford
 - 📫 sholtimann@gmail.com
 - 😄 Pronouns: ...
 
