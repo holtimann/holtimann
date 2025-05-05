@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @holtimann
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning on cs50 course from harvard
+- 🌱 I’m currently learning on code in place from stanford
 - 💞️ I’m looking to collaborate on ...
 - 📫 sholtimann@gmail.com
 - 😄 Pronouns: ...
